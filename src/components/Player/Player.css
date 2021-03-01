@@ -1,0 +1,39 @@
+
+.card-wrapper{
+    display: inline-block;
+}
+
+.player-card{
+
+    width: 250px;
+    height: auto;
+    background-color:white;
+    box-shadow: 5px 5px 10px dimgray;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+
+.background {
+
+   
+    padding: 5px;
+    height: auto;
+    text-align: center;
+
+}
+
+.player-image{
+    text-align: center;
+    margin: 0 auto;
+}
+.player-image img{
+   
+    height: 150px;
+    text-align: center;
+    padding: 5px;
+
+}
+

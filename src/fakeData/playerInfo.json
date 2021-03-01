@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "salary": 60000000,
+    "image": "https://i-schoolman.com/players/ronaldo.png"
+  }, {
+    "id": 2,
+    "name": "Lionel Messi",
+    "club": "FC Barcelona",
+    "salary": 80000000,
+    "image": "https://i-schoolman.com/players/messi.png"
+  }, {
+    "id": 3,
+    "name": "Thomas Müller",
+    "club": "Bayern Munich",
+    "salary": 35000000,
+    "image": "https://i-schoolman.com/players/thomas-mullar.png"
+  }, {
+    "id": 4,
+    "name": "Eden Hazard",
+    "club": "Real Madrid",
+    "salary": 50000000,
+    "image": "https://i-schoolman.com/players/iden-hazard.png"
+  }, {
+    "id": 5,
+    "name": "Karim Benzema",
+    "club": "Real Madrid",
+    "salary": 25000000,
+    "image": "https://i-schoolman.com/players/karimbenjima.png"
+  }, {
+    "id": 6,
+    "name": "Iker Casillas",
+    "club": "FC Porto",
+    "salary": 2500000,
+    "image": "https://i-schoolman.com/players/Iker-Casillas.png"
+  }, {
+    "id": 7,
+    "name": "Zlatan Ibrahimovic",
+    "club": "AC Milan",
+    "salary": 5000000,
+    "image": "https://i-schoolman.com/players/ibrahimovich.png"
+  }, {
+    "id": 8,
+    "name": "Gareth Bale",
+    "club": "Real Madrid",
+    "salary": 20000000,
+    "image": "https://i-schoolman.com/players/bale.png"
+  }, {
+    "id": 9,
+    "name": "Kylian Mbappé",
+    "club": "Paris Saint Germain",
+    "salary": 180000000,
+    "image": "https://i-schoolman.com/players/embappe.png"
+  }, {
+    "id": 10,
+    "name": "Gianluigi Buffon",
+    "club": "Juventus",
+    "salary": 1000000,
+    "image": "https://i-schoolman.com/players/buffon2.png"
+  }, {
+    "id": 11,
+    "name": "Kaká",
+    "club": "AC Milan",
+    "salary": 1860000,
+    "image": "https://i-schoolman.com/players/Kaka.png"
+  }, {
+    "id": 12,
+    "name": "Neymar",
+    "club": "Paris Saint Germain",
+    "salary": 128000000,
+    "image": "https://i-schoolman.com/players/neymar.png"
+  }, {
+    "id": 13,
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "salary": 120000000,
+    "image": "https://i-schoolman.com/players/mohammad-salah.png"
+  }, {
+    "id": 14,
+    "name": "Luka Modric",
+    "club": "Real Madrid",
+    "salary": 10000000,
+    "image": "https://i-schoolman.com/players/Modric_lukavich.png"
+  }, {
+    "id": 15,
+    "name": "Marcelo",
+    "club": "Real Madrid",
+    "salary": 10000000,
+    "image": "https://i-schoolman.com/players/marcelo.png"
+  }]

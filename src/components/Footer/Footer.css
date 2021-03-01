@@ -1,0 +1,12 @@
+.main-footer{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 20px;
+    background: linear-gradient(to right, darkslateblue, mediumslateblue);
+
+}
