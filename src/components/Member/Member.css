@@ -1,7 +1,26 @@
 .block{
     
+    
     font-weight: 600;
     margin: 5px;
     padding: 10px;
-    box-shadow: 15px, 15px, 40px, grey;
+    background-color:fff;
+    color:#333;
+    box-shadow: 5px 5px 10px dimgray;
+    border-radius: 10px;
+}
+
+.delete-icon{
+    color: red;
+    cursor: pointer;
+}
+
+.delete-icon:hover{
+    color: red;
+}
+
+.block:hover{
+    
+    background-color:#fff;
+    color:#333;
 }

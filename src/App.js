@@ -28,7 +28,7 @@ function App() {
     setPlayers(PlayersData);
     console.log(players);
 
-  }, []);
+  },[]);
 
 
   // set team members from players
@@ -71,8 +71,8 @@ function App() {
         <header>
           {/* showing total number of players, salray and budget */}
           <Row style={{ padding: '20px', marginTop: '20px' }}>
+            <Col></Col>
             <Col><h5><FontAwesomeIcon icon={faUsers}></FontAwesomeIcon>  Total Team Members : {teamMembers.length}</h5></Col>
-            <Col><h5><FontAwesomeIcon icon={faHandHoldingUsd}></FontAwesomeIcon> Total Salary : {totalSalary}  <FontAwesomeIcon icon={faEuroSign}></FontAwesomeIcon></h5></Col>
             <Col><h5><FontAwesomeIcon icon={faCoins}></FontAwesomeIcon> Total Budget: {totalSalary} <FontAwesomeIcon icon={faEuroSign}></FontAwesomeIcon></h5></Col>
           </Row>
         </header>
