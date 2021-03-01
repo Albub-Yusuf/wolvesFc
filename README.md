@@ -1,5 +1,5 @@
 Assignment 7 : 
-Live site : https://github.com/Porgramming-Hero-web-course/simple-react-Albub-Yusuf
+Live site : https://wolves-football-club.netlify.app/
 
 
 
