@@ -1,3 +1,8 @@
+Assignment 7 : 
+Live site : https://github.com/Porgramming-Hero-web-course/simple-react-Albub-Yusuf
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
